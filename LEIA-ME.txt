@@ -1,7 +1,0 @@
-# Site Vercel — O Cerco de Oração pelos Filhos
-
-## Como subir na Vercel:
-1. Abra o arquivo `index.html` e substitua `https://pay.cakto.com.br/SEU-CODIGO-AQUI` pelo link real do seu checkout da Cakto.
-2. Arraste esta pasta inteira (`site-vercel`) no painel da Vercel (Add New > Project > Upload) ou suba via GitHub.
-3. Os mockups já estão prontos em `./assets/img/mockup-hero.jpg` e `./assets/img/mockup-mobile.jpg`.
-4. O Meta Pixel (`2042664129415600`) dispara apenas `PageView` e o script oficial da Utmify já repassa automaticamente todas as UTMs e parâmetros (`fbclid`, `_fbp`, `_fbc`) para a Cakto.
